@@ -1,2 +1,2 @@
-# Programmers
-Programmers 문제 풀이
+# Coding Test
+Coding Test 문제 풀이
